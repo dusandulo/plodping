@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="PlodPing.Client/PlodPing.Client.csproj" />
+  <Project Path="PlodPing.Core/PlodPing.Core.csproj" />
+  <Project Path="PlodPing.Functions/PlodPing.Functions.csproj" />
+  <Project Path="PlodPing.Infrastructure/PlodPing.Infrastructure.csproj" />
+  <Project Path="PlodPing.Shared/PlodPing.Shared.csproj" />
+</Solution>
